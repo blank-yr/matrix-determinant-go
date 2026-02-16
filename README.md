@@ -10,7 +10,7 @@ This is a simple Go program to calculate the **determinant of a 3x3 matrix**.
 - Calculates the determinant using the standard formula:
 
 
-##det(A) = a(ei - fh) - b(di - fg) + c(dh - eg)
+## det(A) = a(ei - fh) - b(di - fg) + c(dh - eg)
 
 
 where the matrix is:
