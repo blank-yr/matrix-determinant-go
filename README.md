@@ -14,9 +14,11 @@ det(A) = a(ei - fh) - b(di - fg) + c(dh - eg)
 
 
 where the matrix is:
-| a b c |
-| d e f |
-| g h i |
+| a | b | c |
+|---|---|---|
+| d | e | f |
+| g | h | i |
+
 
 
 - Prints the determinant to the console.
@@ -40,9 +42,11 @@ Determinant = 0
 Example
 
 Matrix:
-| 2 1 3 |
-| 0 -1 4 |
-| 5 2 1 |
+| a | b | c |
+|---|---|---|
+| d | e | f |
+| g | h | i |
+
 
 Output:
 Determinant = 29
